@@ -35,4 +35,4 @@
 ![Testing Route](screenshot/tgs2.png)
 
 # DATABASE
-![Database](screenshot\DB.png)
+![Database](screenshot/DB.png)
